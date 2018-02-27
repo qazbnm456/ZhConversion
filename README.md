@@ -20,6 +20,18 @@ If you like this and would like to support it. Check out my [patreon page](https
 
 ## Information Technology
 
+### Atomicity
+
+Atomicity is a guarantee of isolation from interrupts, signals, concurrent processes and threads.
+
+#### 原子性 _zh-CN_
+
+原子性消除了系统处理操作子集的可能性。
+
+#### 單元性、不可部份完成性 _zh-TW_
+
+資料的修改若非全部執行，就是全部不執行。
+
 ### Call
 
 An expression that passes control and arguments (if any) to a function.
