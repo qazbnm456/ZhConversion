@@ -4,6 +4,7 @@
     "markdownlint.config": {
         "default": true,
         "MD032": false,
-        "MD033": { "allowed_elements": ["br"] }
+        "MD033": { "allowed_elements": ["br"] },
+        "MD041": false
     }
 }
