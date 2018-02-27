@@ -54,6 +54,18 @@ The ability or inclination to perceive or deduce information, and to retain it a
 
 感官、學習、記憶、推理、規劃、行動等生物能力。
 
+### Macro
+
+Identifiers that represent statements or expressions.
+
+#### 宏 _zh-CN_
+
+一种批量处理的称谓。
+
+#### 巨集 _zh-TW_
+
+表示陳述式或運算式的識別項。
+
 ### Memory
 
 A hardware integrated circuits that store information for immediate use in a computer.
