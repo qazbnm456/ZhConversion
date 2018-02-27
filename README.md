@@ -4,6 +4,20 @@
 
 If you like this and would like to support it. Check out my [patreon page](https://www.patreon.com/boik) :)<br>And don't forget to check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitter](https://twitter.com/qazbnm456) as well!
 
+## Contents
+
+- [Information Technology](#information-technology)
+  - [Call](#call)
+  - [Computer](#computer)
+  - [Function](#function)
+  - [Intelligence](#intelligence)
+  - [Macro](#macro)
+  - [Memory](#memory)
+  - [Nested Function](#nested-function)
+  - [Recursive Function](#recursive-function)
+  - [Render](#render)
+  - [Smart Contract](#smart-contract)
+
 ## Information Technology
 
 ### Call
