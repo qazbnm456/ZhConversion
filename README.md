@@ -56,6 +56,30 @@ A device that can be instructed to carry out arbitrary sequences of arithmetic o
 
 一種利用數位電子技術，根據一系列指令對資料進行處理的工具。
 
+### Cursor
+
+A movable indicator on a computer screen identifying the point that will be affected by input from the user.
+
+#### 光标、游标 _zh-CN_
+
+在一个文本框或某种程序中输入文字时,总有一个光标来显示你将要输入文字的位置。
+
+#### 游標、鼠標 _zh-TW_
+
+指「目前會回應使用者輸入的位置」的指示訊息。
+
+### Disk
+
+A magnetic media.
+
+#### 光盘 _zh-CN_
+
+它是用激光扫描的记录和读出方式保存信息的一种介质。
+
+#### 光碟 _zh-TW_
+
+它是用雷射掃描的記錄和讀出方式儲存資訊的一種介質。
+
 ### Function
 
 A specific process, action or task that a system is able to perform.
@@ -67,6 +91,18 @@ A specific process, action or task that a system is able to perform.
 #### 函式 _zh-TW_
 
 執行某項作業的程式碼區塊。
+
+### Hardware
+
+The physical parts or components of a computer.
+
+#### 硬件 _zh-CN_
+
+计算机系统中由电子，机械和光电元件等组成的各种物理装置的总称。
+
+#### 硬體 _zh-TW_
+
+電腦系統中的各種物理裝置。
 
 ### Intelligence
 
@@ -116,6 +152,18 @@ A function which is defined within another function, the enclosing function.
 
 將函式建立在另一個函式中。
 
+### Print
+
+Computer output on a screen or on paper.
+
+#### 打印 _zh-CN_
+
+把电脑或其他电子设备中的文字或图片等可见数据，通过打印机等输出在纸张等记录物上。
+
+#### 列印、印表 _zh-TW_
+
+將電腦內儲存的資料按照文字或影像的方式永久的輸出到紙張、透明膠片或其他平面媒介上。
+
 ### Recursive Function
 
 A method where the solution to a problem depends on solutions to smaller instances of the same problem.
@@ -140,6 +188,18 @@ The process of generating an image from a model, by means of computer programs.
 
 以實時方式對框幀算圖的現代模擬範例。
 
+### Silicon Valley
+
+A nickname for the southern portion of the San Francisco Bay Area in the northern part of the U.S. state of California.
+
+#### 硅谷 _zh-CN_
+
+位于美国加利福尼亚州北部、旧金山湾区南部，是高科技事业云集的美国加州圣塔克拉拉谷（Santa Clara Valley）的别称。
+
+#### 矽谷 _zh-TW_
+
+高科技事業雲集的美國加州聖塔克拉拉谷（Santa Clara Valley）的別稱，位於加利福尼亞州北部、舊金山灣區南部。
+
 ### Smart Contract
 
 A computer protocol intended to digitally facilitate, verify, or enforce the negotiation or performance of a contract.
@@ -151,6 +211,18 @@ A computer protocol intended to digitally facilitate, verify, or enforce the neg
 #### 智慧合約 _zh-TW_
 
 一個智慧合約是一套以數字形式定義的承諾，包括合約參與方可以在上面執行這些承諾的協議。
+
+### Software
+
+A part of a computer system that consists of data or computer instructions.
+
+#### 软件 _zh-CN_
+
+一系列按照特定顺序组织的计算机数据和指令的集合。
+
+#### 軟體 _zh-TW_
+
+一系列按照特定順序組織的電腦資料和指示，是電腦中的非有形部分。
 
 ## Code of Conduct
 
