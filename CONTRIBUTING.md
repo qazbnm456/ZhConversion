@@ -21,7 +21,7 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 
 - Each word should be added in lexical order and conform to the style
 - Description should be clear and concise (read it out loud to be sure)
-- Description should be listed in next line
+- Description should be added in next line
 
 Please contribute words you have used or are familiar with. This will help ensure high-quality entries.
 
