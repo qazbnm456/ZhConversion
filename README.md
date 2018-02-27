@@ -7,7 +7,10 @@ If you like this and would like to support it. Check out my [patreon page](https
 ## Contents
 
 - [Information Technology](#information-technology)
+  - [Algorithm](#algorithm)
+  - [Atomicity](#atomicity)
   - [Call](#call)
+  - [Chip](#chip)
   - [Computer](#computer)
   - [Cursor](#cursor)
   - [Disk](#disk)
@@ -28,6 +31,18 @@ If you like this and would like to support it. Check out my [patreon page](https
   - [Software](#software)
 
 ## Information Technology
+
+### Algorithm
+
+An effective method that can be expressed within a finite amount of space and time and in a well-defined formal language for calculating a function.
+
+#### 算法 _zh-CN_
+
+用系统的方法描述解决问题的策略机制。
+
+#### 演算法 _zh-TW_
+
+一個表示爲有限長列表的有效方法。
 
 ### Atomicity
 
@@ -52,6 +67,18 @@ An expression that passes control and arguments (if any) to a function.
 #### 呼叫、叫用 _zh-TW_
 
 一種運算式，會將控制項和引數 (如果有的話) 傳遞至函式。
+
+### Chip
+
+A set of electronic circuits on one small flat piece (or "chip") of semiconductor material, normally silicon.
+
+#### [芯片](https://www.byvoid.com/zht/blog/region-phrases-comparison-chip) _zh-CN_
+
+内含集成电路的硅片，体积很小，常常是计算机或其他电子设备的一部分。
+
+#### [晶片](https://www.byvoid.com/zht/blog/region-phrases-comparison-chip) _zh-TW_
+
+集成電路的載體。
 
 ### Computer
 
