@@ -23,12 +23,16 @@ If you like this and would like to support it. Check out my [patreon page](https
   - [Print](#print)
   - [Macro](#macro)
   - [Memory](#memory)
+  - [Mouse](#mouse)
   - [Nested Function](#nested-function)
   - [Recursive Function](#recursive-function)
   - [Render](#render)
+  - [Scanner](#scanner)
   - [Silicon Valley](#silicon-valley)
   - [Smart Contract](#smart-contract)
   - [Software](#software)
+  - [Sound Card](#sound-card)
+  - [USB Flash Drive](#usb-flash-drive)
 
 ## Information Technology
 
@@ -200,6 +204,18 @@ CPU能直接寻址的存储空间，由半导体器件制成。
 
 利用半導體技術制成的儲存資料的電子裝置。
 
+### Mouse
+
+A hand-held pointing device that detects two-dimensional motion relative to a surface.
+
+#### 鼠标 _zh-CN_
+
+计算机的一种输入设备，也是计算机显示系统纵横坐标定位的指示器。
+
+#### 滑鼠 _zh-TW_
+
+常見及常用的電腦輸入設備，它可以對當前螢幕上的游標進行定位，並透過按鍵和滾輪裝置對游標所經過位置的螢幕元素進行操作。
+
 ### Nested Function
 
 A function which is defined within another function, the enclosing function.
@@ -260,6 +276,18 @@ The process of generating an image from a model, by means of computer programs.
 
 以實時方式對框幀算圖的現代模擬範例。
 
+### Scanner
+
+A device that captures images from photographic prints, posters, magazine pages, and similar sources for computer editing and display.
+
+#### 扫描仪 _zh-CN_
+
+利用光电技术和数字处理技术，以扫描方式将图形或图像信息转换为数字信号的装置。
+
+#### 掃描器、影像掃描器 _zh-TW_
+
+能夠把相片、印刷文件或手寫文件等影像，或裝飾品等小物件掃描、分析並化成數位影像的器材。
+
 ### Silicon Valley
 
 A nickname for the southern portion of the San Francisco Bay Area in the northern part of the U.S. state of California.
@@ -295,6 +323,30 @@ A part of a computer system that consists of data or computer instructions.
 #### 軟體 _zh-TW_
 
 一系列按照特定順序組織的電腦資料和指示，是電腦中的非有形部分。
+
+### Sound Card
+
+An internal expansion card that provides input and output of audio signals to and from a computer under control of computer programs.
+
+#### 声卡、音频卡 _zh-CN_
+
+多媒体技术中最基本的组成部分，是实现声波/数字信号相互转换的一种硬件。
+
+#### 音效卡 _zh-TW_
+
+一種可將數位化資料轉化成電子合成音樂效果的電腦介面卡。
+
+### USB Flash Drive
+
+Also known as a thumb drive, pen drive, jump drive, disk key, disk on key, flash-drive, memory stick or USB memory, is a data storage device that includes flash memory with an integrated USB interface.
+
+#### U盘、闪存盘、优盘 _zh-CN_
+
+一种使用 USB 接口的无需物理驱动器的微型高容量移动存储产品，通过USB接口与电脑连接，实现即插即用。
+
+#### 隨身碟、 USB 隨身碟 _zh-TW_
+
+使用 USB 介面連接計算機，並通常通過閃存來進行數據儲存的小型便攜儲存裝置。
 
 ## Code of Conduct
 
