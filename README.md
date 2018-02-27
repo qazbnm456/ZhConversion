@@ -6,6 +6,18 @@ If you like this and would like to support it. Check out my [patreon page](https
 
 ## Information Technology
 
+### Memory
+
+A hardware integrated circuits that store information for immediate use in a computer.
+
+#### 内存 _zh-CN_
+
+CPU能直接寻址的存储空间，由半导体器件制成。
+
+#### 記憶體 _zh-TW_
+
+利用半導體技術制成的儲存資料的電子裝置。
+
 ## Code of Conduct
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
