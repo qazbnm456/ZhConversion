@@ -9,14 +9,20 @@ If you like this and would like to support it. Check out my [patreon page](https
 - [Information Technology](#information-technology)
   - [Call](#call)
   - [Computer](#computer)
+  - [Cursor](#cursor)
+  - [Disk](#disk)
   - [Function](#function)
+  - [Hardware](#hardware)
   - [Intelligence](#intelligence)
+  - [Print](#print)
   - [Macro](#macro)
   - [Memory](#memory)
   - [Nested Function](#nested-function)
   - [Recursive Function](#recursive-function)
   - [Render](#render)
+  - [Silicon Valley](#silicon-valley)
   - [Smart Contract](#smart-contract)
+  - [Software](#software)
 
 ## Information Technology
 
