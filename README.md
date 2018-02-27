@@ -18,6 +18,18 @@ CPU能直接寻址的存储空间，由半导体器件制成。
 
 利用半導體技術制成的儲存資料的電子裝置。
 
+### Render
+
+The process of generating an image from a model, by means of computer programs.
+
+#### 渲染、绘制 _zh-CN_
+
+用软件从模型生成图像的过程。
+
+#### 描繪、[算繪](http://breezymove.blogspot.tw/2013/12/render.html) _zh-TW_
+
+以實時方式對框幀算圖的現代模擬範例。
+
 ## Code of Conduct
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
