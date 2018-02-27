@@ -12,8 +12,11 @@ If you like this and would like to support it. Check out my [patreon page](https
   - [Cursor](#cursor)
   - [Disk](#disk)
   - [Function](#function)
+  - [Hard Disk Drive](#hard-disk-drive)
   - [Hardware](#hardware)
   - [Intelligence](#intelligence)
+  - [Interface](#interface)
+  - [Port](#port)
   - [Print](#print)
   - [Macro](#macro)
   - [Memory](#memory)
@@ -98,6 +101,18 @@ A specific process, action or task that a system is able to perform.
 
 執行某項作業的程式碼區塊。
 
+### Hard Disk Drive
+
+A data storage device that uses magnetic storage to store and retrieve digital information using one or more rigid rapidly rotating disks (platters) coated with magnetic material.
+
+#### 硬盘 _zh-CN_
+
+电脑上使用坚硬的旋转盘片为基础的非挥发性存储设备。
+
+#### 硬碟 _zh-TW_
+
+電腦上使用堅硬的旋轉碟片為基礎的非揮發性儲存裝置。
+
 ### Hardware
 
 The physical parts or components of a computer.
@@ -121,6 +136,18 @@ The ability or inclination to perceive or deduce information, and to retain it a
 #### 智慧 _zh-TW_
 
 感官、學習、記憶、推理、規劃、行動等生物能力。
+
+### Interface
+
+A shared boundary across which two or more separate components of a computer system exchange information.
+
+#### 接口、界面 _zh-CN_
+
+泛指实体把自己提供给外界的一种抽象化物（可以为另一实体），用以由内部操作分离出外部沟通方法，使其能被内部修改而不影响外界其他实体与其交互的方式。
+
+#### 介面 _zh-TW_
+
+泛指實體把自己提供給外界的一種抽象化物（可以為另一實體），用以由內部操作分離出外部溝通方法，使其能被修改內部而不影響外界其他實體與其互動的方式。
 
 ### Macro
 
@@ -157,6 +184,18 @@ A function which is defined within another function, the enclosing function.
 #### 巢狀函式 _zh-TW_
 
 將函式建立在另一個函式中。
+
+### Port
+
+An endpoint of communication in an operating system.
+
+#### 端口 _zh-CN_
+
+设备与外界通讯交流的出口。
+
+#### 通訊埠、埠 _zh-TW_
+
+電腦作業系統中扮演通訊的端點（endpoint）。
 
 ### Print
 
