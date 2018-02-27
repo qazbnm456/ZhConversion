@@ -9,15 +9,19 @@ If you like this and would like to support it. Check out my [patreon page](https
 - [Information Technology](#information-technology)
   - [Algorithm](#algorithm)
   - [Atomicity](#atomicity)
+  - [Bandwidth](#bandwidth)
   - [Cache](#cahce)
   - [Call](#call)
   - [Chip](#chip)
   - [Computer](#computer)
   - [Cursor](#cursor)
+  - [Data](#data)
   - [Disk](#disk)
   - [Function](#function)
   - [Hard Disk Drive](#hard-disk-drive)
   - [Hardware](#hardware)
+  - [Information](#information)
+  - [Integrated Circuit](#integrated-circuit)
   - [Intelligence](#intelligence)
   - [Interface](#interface)
   - [Local Area Network](#local-area-network)
@@ -65,6 +69,18 @@ Atomicity is a guarantee of isolation from interrupts, signals, concurrent proce
 #### 單元性、不可部份完成性 _zh-TW_
 
 資料的修改若非全部執行，就是全部不執行。
+
+### Bandwidth
+
+The bit-rate of available or consumed information capacity expressed typically in metric multiples of bits per second.
+
+#### 带宽 _zh-CN_
+
+可用或耗用的信息量比特率，通常以测得的每秒数量表示。
+
+#### 頻寬 _zh-TW_
+
+傳輸媒介的最大吞吐量（throughput）。
 
 ### Cache
 
@@ -126,6 +142,18 @@ A movable indicator on a computer screen identifying the point that will be affe
 
 指「目前會回應使用者輸入的位置」的指示訊息。
 
+### Data
+
+A set of values of qualitative or quantitative variables.
+
+#### 数据 _zh-CN_
+
+事实或观察的结果，是对客观事物的逻辑归纳，是用于表示客观事物的未经加工的的原始素材。
+
+#### 資料 _zh-TW_
+
+未經過處理的原始記錄。
+
 ### Disk
 
 A magnetic media.
@@ -173,6 +201,30 @@ The physical parts or components of a computer.
 #### 硬體 _zh-TW_
 
 電腦系統中的各種物理裝置。
+
+### Information
+
+Information is any entity or form that resolves uncertainty or provides the answer to a question of some kind.
+
+#### 信息 _zh-CN_
+
+音讯、消息、通讯系统传输和处理的对象，泛指人类社会传播的一切内容。
+
+#### 資訊 _zh-TW_
+
+資訊是物質存在的一種方式、形態或運動形態，也是事物的一種普遍屬性。
+
+### Integrated Circuit
+
+A set of electronic circuits on one small flat piece (or "chip") of semiconductor material, normally silicon.
+
+#### 集成电路 _zh-CN_
+
+电子学中是一种把电路（主要包括半導體裝置，也包括被动元件等）小型化的方式，並時常制造在半导体晶圓表面上。
+
+#### 積體電路 _zh-TW_
+
+將電晶體、電阻、電容、二極體等電子元件整合裝至一塊晶片上面。由於積體電路的體積非常小，使電子運動的距離大幅縮小，因此速度極快且可靠性高。
 
 ### Intelligence
 
