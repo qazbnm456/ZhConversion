@@ -9,6 +9,7 @@ If you like this and would like to support it. Check out my [patreon page](https
 - [Information Technology](#information-technology)
   - [Algorithm](#algorithm)
   - [Atomicity](#atomicity)
+  - [Cache](#cahce)
   - [Call](#call)
   - [Chip](#chip)
   - [Computer](#computer)
@@ -19,15 +20,20 @@ If you like this and would like to support it. Check out my [patreon page](https
   - [Hardware](#hardware)
   - [Intelligence](#intelligence)
   - [Interface](#interface)
-  - [Port](#port)
-  - [Print](#print)
+  - [Local Area Network](#local-area-network)
   - [Macro](#macro)
   - [Memory](#memory)
+  - [Modem](#modem)
   - [Mouse](#mouse)
   - [Nested Function](#nested-function)
+  - [Network](#network)
+  - [Notebook Computer](#notebook-computer)
+  - [Port](#port)
+  - [Print](#print)
   - [Recursive Function](#recursive-function)
   - [Render](#render)
   - [Scanner](#scanner)
+  - [Server](#server)
   - [Silicon Valley](#silicon-valley)
   - [Smart Contract](#smart-contract)
   - [Software](#software)
@@ -59,6 +65,18 @@ Atomicity is a guarantee of isolation from interrupts, signals, concurrent proce
 #### 單元性、不可部份完成性 _zh-TW_
 
 資料的修改若非全部執行，就是全部不執行。
+
+### Cache
+
+A hardware or software component that stores data so future requests for that data can be served faster.
+
+#### 高速缓存、高速缓冲存储器 _zh-CN_
+
+存取速度比一般随机存取记忆体（RAM）来得快的一种RAM。
+
+#### 快取 _zh-TW_
+
+存取速度比一般隨機存取記憶體（RAM）快的一種RAM。
 
 ### Call
 
@@ -180,6 +198,18 @@ A shared boundary across which two or more separate components of a computer sys
 
 泛指實體把自己提供給外界的一種抽象化物（可以為另一實體），用以由內部操作分離出外部溝通方法，使其能被修改內部而不影響外界其他實體與其互動的方式。
 
+### Local Area Network
+
+A computer network that interconnects computers within a limited area such as a residence, school, laboratory, university campus or office building.
+
+#### 局域网 _zh-CN_
+
+在某一区域内由多台计算机互联成的计算机组。
+
+#### 區域網路 _zh-TW_
+
+可連線住宅，學校，實驗室，大學校園或辦公大樓等有限區域內電腦的電腦網路。
+
 ### Macro
 
 Identifiers that represent statements or expressions.
@@ -204,6 +234,18 @@ CPU能直接寻址的存储空间，由半导体器件制成。
 
 利用半導體技術制成的儲存資料的電子裝置。
 
+### Modem
+
+An electronic device that makes possible the transmission of data to or from a computer via telephone or other communication lines.
+
+#### 调制解调器 _zh-CN_
+
+一种计算机硬件，它能把计算机的数字信号翻译成可沿普通电话线传送的模拟信号，而这些模拟信号又可被线路另一端的另一个调制解调器接收，并译成计算机可懂的语言。
+
+#### 數據機 _zh-TW_
+
+將數位訊號調變到類比訊號上進行傳輸，並解調收到的類比訊號以得到數位訊號的電子裝置。
+
 ### Mouse
 
 A hand-held pointing device that detects two-dimensional motion relative to a surface.
@@ -227,6 +269,30 @@ A function which is defined within another function, the enclosing function.
 #### 巢狀函式 _zh-TW_
 
 將函式建立在另一個函式中。
+
+### Network
+
+A digital telecommunications network which allows nodes to share resources.
+
+#### 网络 _zh-CN_
+
+信息传输、接收、共享的虚拟平台。
+
+#### 網路 _zh-TW_
+
+利用通訊裝置和線路將地理位置不同的、功能獨立的多個電腦系統連線起來，以功能完善的網路軟體實現網路的硬體、軟體及資源共享和資訊傳遞的系統。
+
+### Notebook Computer
+
+A small, portable personal computer.
+
+#### 笔记本电脑 _zh-CN_
+
+一种小型、可方便携带的个人电脑。
+
+#### 筆記型電腦、手提電腦 _zh-TW_
+
+一種小型、可以方便攜帶的個人電腦。
 
 ### Port
 
@@ -287,6 +353,18 @@ A device that captures images from photographic prints, posters, magazine pages,
 #### 掃描器、影像掃描器 _zh-TW_
 
 能夠把相片、印刷文件或手寫文件等影像，或裝飾品等小物件掃描、分析並化成數位影像的器材。
+
+### Server
+
+Ａcomputer program or a device that provides functionality for other programs or devices, called "clients".
+
+#### 服务器 _zh-CN_
+
+提供计算服务的设备。
+
+#### 伺服器 _zh-TW_
+
+管理資源並為用戶提供服務的電腦軟體。
 
 ### Silicon Valley
 
