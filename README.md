@@ -424,7 +424,7 @@ Also known as a thumb drive, pen drive, jump drive, disk key, disk on key, flash
 
 #### 隨身碟、 USB 隨身碟 _zh-TW_
 
-使用 USB 介面連接計算機，並通常通過閃存來進行數據儲存的小型便攜儲存裝置。
+使用 USB 介面連接計算機，並通常通過快閃記憶體來進行資料儲存的小型便攜儲存裝置。
 
 ## Code of Conduct
 
