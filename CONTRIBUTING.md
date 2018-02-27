@@ -19,7 +19,7 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 
 `ZhConversion` is a ZhConversion list for different categories and inspired by the [post](https://www.facebook.com/microjserv/posts/10156131359557389).
 
-- Each word should be added conforming to the style
+- Each word should be added in lexical order and conform to the style
 - Description should be clear and concise (read it out loud to be sure)
 - Description should be listed in next line
 
