@@ -1,0 +1,598 @@
+{
+  "Information Technology": {
+    "Algorithm": {
+      "en-US": [
+        "Algorithm"
+      ],
+      "zh-CN": [
+        "算法"
+      ],
+      "zh-TW": [
+        "演算法"
+      ],
+      "description": {
+        "en-US": "An effective method that can be expressed within a finite amount of space and time and in a well-defined formal language for calculating a function.",
+        "zh-CN": "用系统的方法描述解决问题的策略机制。",
+        "zh-TW": "一個表示爲有限長列表的有效方法。"
+      }
+    },
+    "Atomicity": {
+      "en-US": [
+        "Atomicity"
+      ],
+      "zh-CN": [
+        "原子性"
+      ],
+      "zh-TW": [
+        "單元性",
+        "不可部份完成性"
+      ],
+      "description": {
+        "en-US": "Atomicity is a guarantee of isolation from interrupts, signals, concurrent processes and threads.",
+        "zh-CN": "原子性消除了系统处理操作子集的可能性。",
+        "zh-TW": "資料的修改若非全部執行，就是全部不執行。"
+      }
+    },
+    "Bandwidth": {
+      "en-US": [
+        "Bandwidth"
+      ],
+      "zh-CN": [
+        "带宽"
+      ],
+      "zh-TW": [
+        "頻寬"
+      ],
+      "description": {
+        "en-US": "The bit-rate of available or consumed information capacity expressed typically in metric multiples of bits per second.",
+        "zh-CN": "可用或耗用的信息量比特率，通常以测得的每秒数量表示。",
+        "zh-TW": "傳輸媒介的最大吞吐量（throughput）。"
+      }
+    },
+    "Cache": {
+      "en-US": [
+        "Cache"
+      ],
+      "zh-CN": [
+        "高速缓存",
+        "高速缓冲存储器"
+      ],
+      "zh-TW": [
+        "快取"
+      ],
+      "description": {
+        "en-US": "A hardware or software component that stores data so future requests for that data can be served faster.",
+        "zh-CN": "存取速度比一般随机存取记忆体（RAM）来得快的一种RAM。",
+        "zh-TW": "存取速度比一般隨機存取記憶體（RAM）快的一種RAM。"
+      }
+    },
+    "Call": {
+      "en-US": [
+        "Call"
+      ],
+      "zh-CN": [
+        "调用"
+      ],
+      "zh-TW": [
+        "呼叫",
+        "叫用"
+      ],
+      "description": {
+        "en-US": "An expression that passes control and arguments (if any) to a function.",
+        "zh-CN": "将程序的执行交给其他的代码段，同时保存必要的信息，从而使被调用段执行完毕后返回到调用点继续执行。",
+        "zh-TW": "一種運算式，會將控制項和引數 (如果有的話) 傳遞至函式。"
+      }
+    },
+    "Chip": {
+      "en-US": [
+        "Chip"
+      ],
+      "zh-CN": [
+        "芯片"
+      ],
+      "zh-TW": [
+        "晶片"
+      ],
+      "description": {
+        "en-US": "A set of electronic circuits on one small flat piece (or \"chip\") of semiconductor material, normally silicon.",
+        "zh-CN": "内含集成电路的硅片，体积很小，常常是计算机或其他电子设备的一部分。",
+        "zh-TW": "集成電路的載體。"
+      }
+    },
+    "Computer": {
+      "en-US": [
+        "Computer"
+      ],
+      "zh-CN": [
+        "电子计算机",
+        "计算机",
+        "电脑"
+      ],
+      "zh-TW": [
+        "電腦"
+      ],
+      "description": {
+        "en-US": "A device that can be instructed to carry out arbitrary sequences of arithmetic or logical operations automatically.",
+        "zh-CN": "现代一种用于高速计算的电子计算机器。",
+        "zh-TW": "一種利用數位電子技術，根據一系列指令對資料進行處理的工具。"
+      }
+    },
+    "Cursor": {
+      "en-US": [
+        "Cursor"
+      ],
+      "zh-CN": [
+        "光标",
+        "游标"
+      ],
+      "zh-TW": [
+        "游標",
+        "鼠標"
+      ],
+      "description": {
+        "en-US": "A movable indicator on a computer screen identifying the point that will be affected by input from the user.",
+        "zh-CN": "在一个文本框或某种程序中输入文字时,总有一个光标来显示你将要输入文字的位置。",
+        "zh-TW": "指「目前會回應使用者輸入的位置」的指示訊息。"
+      }
+    },
+    "Data": {
+      "en-US": [
+        "Data"
+      ],
+      "zh-CN": [
+        "数据"
+      ],
+      "zh-TW": [
+        "資料"
+      ],
+      "description": {
+        "en-US": "A set of values of qualitative or quantitative variables.",
+        "zh-CN": "事实或观察的结果，是对客观事物的逻辑归纳，是用于表示客观事物的未经加工的的原始素材。",
+        "zh-TW": "未經過處理的原始記錄。"
+      }
+    },
+    "Disk": {
+      "en-US": [
+        "Disk"
+      ],
+      "zh-CN": [
+        "光盘"
+      ],
+      "zh-TW": [
+        "光碟"
+      ],
+      "description": {
+        "en-US": "A magnetic media.",
+        "zh-CN": "它是用激光扫描的记录和读出方式保存信息的一种介质。",
+        "zh-TW": "它是用雷射掃描的記錄和讀出方式儲存資訊的一種介質。"
+      }
+    },
+    "Function": {
+      "en-US": [
+        "Function"
+      ],
+      "zh-CN": [
+        "函数"
+      ],
+      "zh-TW": [
+        "函式"
+      ],
+      "description": {
+        "en-US": "A specific process, action or task that a system is able to perform.",
+        "zh-CN": "一段在一起的、可以做某一件事儿的程序。",
+        "zh-TW": "執行某項作業的程式碼區塊。"
+      }
+    },
+    "Hard Disk Drive": {
+      "en-US": [
+        "Hard Disk Drive"
+      ],
+      "zh-CN": [
+        "硬盘"
+      ],
+      "zh-TW": [
+        "硬碟"
+      ],
+      "description": {
+        "en-US": "A data storage device that uses magnetic storage to store and retrieve digital information using one or more rigid rapidly rotating disks (platters) coated with magnetic material.",
+        "zh-CN": "电脑上使用坚硬的旋转盘片为基础的非挥发性存储设备。",
+        "zh-TW": "電腦上使用堅硬的旋轉碟片為基礎的非揮發性儲存裝置。"
+      }
+    },
+    "Hardware": {
+      "en-US": [
+        "Hardware"
+      ],
+      "zh-CN": [
+        "硬件"
+      ],
+      "zh-TW": [
+        "硬體"
+      ],
+      "description": {
+        "en-US": "The physical parts or components of a computer.",
+        "zh-CN": "计算机系统中由电子，机械和光电元件等组成的各种物理装置的总称。",
+        "zh-TW": "電腦系統中的各種物理裝置。"
+      }
+    },
+    "Information": {
+      "en-US": [
+        "Information"
+      ],
+      "zh-CN": [
+        "信息"
+      ],
+      "zh-TW": [
+        "資訊"
+      ],
+      "description": {
+        "en-US": "Information is any entity or form that resolves uncertainty or provides the answer to a question of some kind.",
+        "zh-CN": "音讯、消息、通讯系统传输和处理的对象，泛指人类社会传播的一切内容。",
+        "zh-TW": "資訊是物質存在的一種方式、形態或運動形態，也是事物的一種普遍屬性。"
+      }
+    },
+    "Integrated Circuit": {
+      "en-US": [
+        "Integrated Circuit"
+      ],
+      "zh-CN": [
+        "集成电路"
+      ],
+      "zh-TW": [
+        "積體電路"
+      ],
+      "description": {
+        "en-US": "A set of electronic circuits on one small flat piece (or \"chip\") of semiconductor material, normally silicon.",
+        "zh-CN": "采用一定的工艺，把一个电路中所需的晶体管、电阻、电容和电感等元件及布线互连一起，制作在一小块或几小块半导体晶片或介质基片上，然后封装在一个管壳内，成为具有所需电路功能的微型结构。",
+        "zh-TW": "將電晶體、電阻、電容、二極體等電子元件整合裝至一塊晶片上面。由於積體電路的體積非常小，使電子運動的距離大幅縮小，因此速度極快且可靠性高。"
+      }
+    },
+    "Intelligence": {
+      "en-US": [
+        "Intelligence"
+      ],
+      "zh-CN": [
+        "智能"
+      ],
+      "zh-TW": [
+        "智慧"
+      ],
+      "description": {
+        "en-US": "The ability or inclination to perceive or deduce information, and to retain it as knowledge.",
+        "zh-CN": "智能，是智力和能力的总称。“智”指进行认识活动的某些心理特点，“能”则指进行实际活动的某些心理特点。",
+        "zh-TW": "感官、學習、記憶、推理、規劃、行動等生物能力。"
+      }
+    },
+    "Interface": {
+      "en-US": [
+        "Interface"
+      ],
+      "zh-CN": [
+        "接口",
+        "界面"
+      ],
+      "zh-TW": [
+        "介面"
+      ],
+      "description": {
+        "en-US": "A shared boundary across which two or more separate components of a computer system exchange information.",
+        "zh-CN": "泛指实体把自己提供给外界的一种抽象化物（可以为另一实体），用以由内部操作分离出外部沟通方法，使其能被内部修改而不影响外界其他实体与其交互的方式。",
+        "zh-TW": "泛指實體把自己提供給外界的一種抽象化物（可以為另一實體），用以由內部操作分離出外部溝通方法，使其能被修改內部而不影響外界其他實體與其互動的方式。"
+      }
+    },
+    "Local Area Network": {
+      "en-US": [
+        "Local Area Network"
+      ],
+      "zh-CN": [
+        "局域网"
+      ],
+      "zh-TW": [
+        "區域網路"
+      ],
+      "description": {
+        "en-US": "A computer network that interconnects computers within a limited area such as a residence, school, laboratory, university campus or office building.",
+        "zh-CN": "在某一区域内由多台计算机互联成的计算机组。",
+        "zh-TW": "可連線住宅，學校，實驗室，大學校園或辦公大樓等有限區域內電腦的電腦網路。"
+      }
+    },
+    "Macro": {
+      "en-US": [
+        "Macro"
+      ],
+      "zh-CN": [
+        "宏"
+      ],
+      "zh-TW": [
+        "巨集"
+      ],
+      "description": {
+        "en-US": "Identifiers that represent statements or expressions.",
+        "zh-CN": "一种批量处理的称谓。",
+        "zh-TW": "表示陳述式或運算式的識別項。"
+      }
+    },
+    "Memory": {
+      "en-US": [
+        "Memory"
+      ],
+      "zh-CN": [
+        "内存"
+      ],
+      "zh-TW": [
+        "記憶體"
+      ],
+      "description": {
+        "en-US": "A hardware integrated circuits that store information for immediate use in a computer.",
+        "zh-CN": "CPU能直接寻址的存储空间，由半导体器件制成。",
+        "zh-TW": "利用半導體技術制成的儲存資料的電子裝置。"
+      }
+    },
+    "Modem": {
+      "en-US": [
+        "Modem"
+      ],
+      "zh-CN": [
+        "调制解调器"
+      ],
+      "zh-TW": [
+        "數據機"
+      ],
+      "description": {
+        "en-US": "An electronic device that makes possible the transmission of data to or from a computer via telephone or other communication lines.",
+        "zh-CN": "一种计算机硬件，它能把计算机的数字信号翻译成可沿普通电话线传送的模拟信号，而这些模拟信号又可被线路另一端的另一个调制解调器接收，并译成计算机可懂的语言。",
+        "zh-TW": "將數位訊號調變到類比訊號上進行傳輸，並解調收到的類比訊號以得到數位訊號的電子裝置。"
+      }
+    },
+    "Mouse": {
+      "en-US": [
+        "Mouse"
+      ],
+      "zh-CN": [
+        "鼠标"
+      ],
+      "zh-TW": [
+        "滑鼠"
+      ],
+      "description": {
+        "en-US": "A hand-held pointing device that detects two-dimensional motion relative to a surface.",
+        "zh-CN": "计算机的一种输入设备，也是计算机显示系统纵横坐标定位的指示器。",
+        "zh-TW": "常見及常用的電腦輸入設備，它可以對當前螢幕上的游標進行定位，並透過按鍵和滾輪裝置對游標所經過位置的螢幕元素進行操作。"
+      }
+    },
+    "Nested Function": {
+      "en-US": [
+        "Nested Function"
+      ],
+      "zh-CN": [
+        "嵌套函数"
+      ],
+      "zh-TW": [
+        "巢狀函式"
+      ],
+      "description": {
+        "en-US": "A function which is defined within another function, the enclosing function.",
+        "zh-CN": "将某函数作为另一函数的参数使用。",
+        "zh-TW": "將函式建立在另一個函式中。"
+      }
+    },
+    "Network": {
+      "en-US": [
+        "Network"
+      ],
+      "zh-CN": [
+        "网络"
+      ],
+      "zh-TW": [
+        "網路"
+      ],
+      "description": {
+        "en-US": "A digital telecommunications network which allows nodes to share resources.",
+        "zh-CN": "信息传输、接收、共享的虚拟平台。",
+        "zh-TW": "利用通訊裝置和線路將地理位置不同的、功能獨立的多個電腦系統連線起來，以功能完善的網路軟體實現網路的硬體、軟體及資源共享和資訊傳遞的系統。"
+      }
+    },
+    "Notebook Computer": {
+      "en-US": [
+        "Notebook Computer"
+      ],
+      "zh-CN": [
+        "笔记本电脑"
+      ],
+      "zh-TW": [
+        "筆記型電腦",
+        "手提電腦"
+      ],
+      "description": {
+        "en-US": "A small, portable personal computer.",
+        "zh-CN": "一种小型、可方便携带的个人电脑。",
+        "zh-TW": "一種小型、可以方便攜帶的個人電腦。"
+      }
+    },
+    "Port": {
+      "en-US": [
+        "Port"
+      ],
+      "zh-CN": [
+        "端口"
+      ],
+      "zh-TW": [
+        "通訊埠",
+        "埠"
+      ],
+      "description": {
+        "en-US": "An endpoint of communication in an operating system.",
+        "zh-CN": "设备与外界通讯交流的出口。",
+        "zh-TW": "電腦作業系統中扮演通訊的端點（endpoint）。"
+      }
+    },
+    "Print": {
+      "en-US": [
+        "Print"
+      ],
+      "zh-CN": [
+        "打印"
+      ],
+      "zh-TW": [
+        "列印",
+        "印表"
+      ],
+      "description": {
+        "en-US": "Computer output on a screen or on paper.",
+        "zh-CN": "把电脑或其他电子设备中的文字或图片等可见数据，通过打印机等输出在纸张等记录物上。",
+        "zh-TW": "將電腦內儲存的資料按照文字或影像的方式永久的輸出到紙張、透明膠片或其他平面媒介上。"
+      }
+    },
+    "Recursive Function": {
+      "en-US": [
+        "Recursive Function"
+      ],
+      "zh-CN": [
+        "递归函数"
+      ],
+      "zh-TW": [
+        "遞迴函式"
+      ],
+      "description": {
+        "en-US": "A method where the solution to a problem depends on solutions to smaller instances of the same problem.",
+        "zh-CN": "一个函数在它的函数体内直接或间接调用函数本身。",
+        "zh-TW": "在函式之中可呼叫函式本身。"
+      }
+    },
+    "Render": {
+      "en-US": [
+        "Render"
+      ],
+      "zh-CN": [
+        "渲染",
+        "绘制"
+      ],
+      "zh-TW": [
+        "描繪",
+        "算繪"
+      ],
+      "description": {
+        "en-US": "The process of generating an image from a model, by means of computer programs.",
+        "zh-CN": "用软件从模型生成图像的过程。",
+        "zh-TW": "以實時方式對框幀算圖的現代模擬範例。"
+      }
+    },
+    "Scanner": {
+      "en-US": [
+        "Scanner"
+      ],
+      "zh-CN": [
+        "扫描仪"
+      ],
+      "zh-TW": [
+        "掃描器",
+        "影像掃描器"
+      ],
+      "description": {
+        "en-US": "A device that captures images from photographic prints, posters, magazine pages, and similar sources for computer editing and display.",
+        "zh-CN": "利用光电技术和数字处理技术，以扫描方式将图形或图像信息转换为数字信号的装置。",
+        "zh-TW": "能夠把相片、印刷文件或手寫文件等影像，或裝飾品等小物件掃描、分析並化成數位影像的器材。"
+      }
+    },
+    "Server": {
+      "en-US": [
+        "Server"
+      ],
+      "zh-CN": [
+        "服务器"
+      ],
+      "zh-TW": [
+        "伺服器"
+      ],
+      "description": {
+        "en-US": "Ａcomputer program or a device that provides functionality for other programs or devices, called \"clients\".",
+        "zh-CN": "提供计算服务的设备。",
+        "zh-TW": "管理資源並為用戶提供服務的電腦軟體。"
+      }
+    },
+    "Silicon Valley": {
+      "en-US": [
+        "Silicon Valley"
+      ],
+      "zh-CN": [
+        "硅谷"
+      ],
+      "zh-TW": [
+        "矽谷"
+      ],
+      "description": {
+        "en-US": "A nickname for the southern portion of the San Francisco Bay Area in the northern part of the U.S. state of California.",
+        "zh-CN": "位于美国加利福尼亚州北部、旧金山湾区南部，是高科技事业云集的美国加州圣塔克拉拉谷（Santa Clara Valley）的别称。",
+        "zh-TW": "高科技事業雲集的美國加州聖塔克拉拉谷（Santa Clara Valley）的別稱，位於加利福尼亞州北部、舊金山灣區南部。"
+      }
+    },
+    "Smart Contract": {
+      "en-US": [
+        "Smart Contract"
+      ],
+      "zh-CN": [
+        "智能合约"
+      ],
+      "zh-TW": [
+        "智慧合約"
+      ],
+      "description": {
+        "en-US": "A computer protocol intended to digitally facilitate, verify, or enforce the negotiation or performance of a contract.",
+        "zh-CN": "一种旨在以信息化方式传播、验证或执行合同的计算机协议。",
+        "zh-TW": "一個智慧合約是一套以數字形式定義的承諾，包括合約參與方可以在上面執行這些承諾的協議。"
+      }
+    },
+    "Software": {
+      "en-US": [
+        "Software"
+      ],
+      "zh-CN": [
+        "软件"
+      ],
+      "zh-TW": [
+        "軟體"
+      ],
+      "description": {
+        "en-US": "A part of a computer system that consists of data or computer instructions.",
+        "zh-CN": "一系列按照特定顺序组织的计算机数据和指令的集合。",
+        "zh-TW": "一系列按照特定順序組織的電腦資料和指示，是電腦中的非有形部分。"
+      }
+    },
+    "Sound Card": {
+      "en-US": [
+        "Sound Card"
+      ],
+      "zh-CN": [
+        "声卡",
+        "音频卡"
+      ],
+      "zh-TW": [
+        "音效卡"
+      ],
+      "description": {
+        "en-US": "An internal expansion card that provides input and output of audio signals to and from a computer under control of computer programs.",
+        "zh-CN": "多媒体技术中最基本的组成部分，是实现声波/数字信号相互转换的一种硬件。",
+        "zh-TW": "一種可將數位化資料轉化成電子合成音樂效果的電腦介面卡。"
+      }
+    },
+    "USB Flash Drive": {
+      "en-US": [
+        "USB Flash Drive"
+      ],
+      "zh-CN": [
+        "U盘",
+        "闪存盘",
+        "优盘"
+      ],
+      "zh-TW": [
+        "隨身碟",
+        " USB 隨身碟"
+      ],
+      "description": {
+        "en-US": "Also known as a thumb drive, pen drive, jump drive, disk key, disk on key, flash-drive, memory stick or USB memory, is a data storage device that includes flash memory with an integrated USB interface.",
+        "zh-CN": "一种使用 USB 接口的无需物理驱动器的微型高容量移动存储产品，通过USB接口与电脑连接，实现即插即用。",
+        "zh-TW": "使用 USB 介面連接計算機，並通常通過快閃記憶體來進行資料儲存的小型便攜儲存裝置。"
+      }
+    }
+  }
+}

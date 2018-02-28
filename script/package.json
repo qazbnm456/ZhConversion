@@ -1,0 +1,22 @@
+{
+  "name": "zh-conversion",
+  "description": "A JSON object describing the ZhConversion list",
+  "version": "0.0.0",
+  "author": {
+    "name": "Boik Su",
+    "email": "boik@tdohacker.org"
+  },
+  "bin": "cli.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "dedent": "^0.7.0",
+    "marky-markdown-lite": "^1.2.0",
+    "minimist": "^1.2.0"
+  },
+  "homepage": "https://github.com/qazbnm456/ZhConversion",
+  "main": "index.js",
+  "repository": "https://github.com/qazbnm456/ZhConversion",
+  "engines": {
+    "node": ">=4"
+  }
+}
