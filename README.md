@@ -39,6 +39,7 @@ If you like this and would like to support it. Check out my [patreon page](https
   - [Process](#process)
   - [Program](#program)
   - [Recursive Function](#recursive-function)
+  - [Register](#register)
   - [Render](#render)
   - [Scanner](#scanner)
   - [Server](#server)
@@ -435,6 +436,18 @@ A method where the solution to a problem depends on solutions to smaller instanc
 #### 遞迴函式 _zh-TW_
 
 在函式之中可呼叫函式本身。
+
+### Register
+
+A quickly accessible location available to a computer's central processing unit (CPU).
+
+#### 寄存器 _zh-CN_
+
+有限存贮容量的高速存贮部件，它们可用来暂存指令、数据和地址。
+
+#### 暫存器 _zh-TW_
+
+有限存貯容量的高速存貯部件，它們可用來暫存指令、資料和位址。
 
 ### Render
 

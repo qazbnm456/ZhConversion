@@ -523,6 +523,22 @@
         "zh-TW": "在函式之中可呼叫函式本身。"
       }
     },
+    "Register": {
+      "en-US": [
+        "Register"
+      ],
+      "zh-CN": [
+        "寄存器"
+      ],
+      "zh-TW": [
+        "暫存器"
+      ],
+      "description": {
+        "en-US": "A quickly accessible location available to a computer's central processing unit (CPU).",
+        "zh-CN": "有限存贮容量的高速存贮部件，它们可用来暂存指令、数据和地址。",
+        "zh-TW": "有限存貯容量的高速存貯部件，它們可用來暫存指令、資料和位址。"
+      }
+    },
     "Render": {
       "en-US": [
         "Render"
