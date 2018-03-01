@@ -151,6 +151,22 @@
         "zh-TW": "未經過處理的原始記錄。"
       }
     },
+    "Debug": {
+      "en-US": [
+        "Debug"
+      ],
+      "zh-CN": [
+        "调试"
+      ],
+      "zh-TW": [
+        "偵錯"
+      ],
+      "description": {
+        "en-US": "The process of finding and resolving defects or problems within the program that prevent correct operation of computer software or a system.",
+        "zh-CN": "保证所提供的设备能够正常运行的必须程序。",
+        "zh-TW": "發現和減少電腦程式或電子儀器裝置中程式錯誤的一個過程。"
+      }
+    },
     "Disk": {
       "en-US": [
         "Disk"
@@ -213,6 +229,22 @@
         "en-US": "The physical parts or components of a computer.",
         "zh-CN": "计算机系统中由电子，机械和光电元件等组成的各种物理装置的总称。",
         "zh-TW": "電腦系統中的各種物理裝置。"
+      }
+    },
+    "Heap": {
+      "en-US": [
+        "Heap"
+      ],
+      "zh-CN": [
+        "堆"
+      ],
+      "zh-TW": [
+        "堆積"
+      ],
+      "description": {
+        "en-US": "A specialized tree-based data structure.",
+        "zh-CN": "计算机科学中一类特殊的数据结构的统称。",
+        "zh-TW": "電腦科學中一類特殊的資料結構的統稱。"
       }
     },
     "Information": {
@@ -443,6 +475,38 @@
         "zh-TW": "將電腦內儲存的資料按照文字或影像的方式永久的輸出到紙張、透明膠片或其他平面媒介上。"
       }
     },
+    "Process": {
+      "en-US": [
+        "Process"
+      ],
+      "zh-CN": [
+        "进程"
+      ],
+      "zh-TW": [
+        "程序"
+      ],
+      "description": {
+        "en-US": "A container for a set of programs.",
+        "zh-CN": "某数据集合上的一次运行活动，是系统进行资源分配和调度的基本单位，是操作系统结构的基础。",
+        "zh-TW": "一組程式的容器。"
+      }
+    },
+    "Program": {
+      "en-US": [
+        "Program"
+      ],
+      "zh-CN": [
+        "程序"
+      ],
+      "zh-TW": [
+        "程式"
+      ],
+      "description": {
+        "en-US": "A collection of instructions that performs a specific task when executed by a computer.",
+        "zh-CN": "一个指令序列。",
+        "zh-TW": "一組指示電腦或其他具有訊息處理能力裝置每一步動作的指令。"
+      }
+    },
     "Recursive Function": {
       "en-US": [
         "Recursive Function"
@@ -573,6 +637,38 @@
         "en-US": "An internal expansion card that provides input and output of audio signals to and from a computer under control of computer programs.",
         "zh-CN": "多媒体技术中最基本的组成部分，是实现声波/数字信号相互转换的一种硬件。",
         "zh-TW": "一種可將數位化資料轉化成電子合成音樂效果的電腦介面卡。"
+      }
+    },
+    "Stack": {
+      "en-US": [
+        "Stack"
+      ],
+      "zh-CN": [
+        "栈"
+      ],
+      "zh-TW": [
+        "堆疊"
+      ],
+      "description": {
+        "en-US": "An abstract data type that serves as a collection of elements.",
+        "zh-CN": "一种运算受限的线性表。",
+        "zh-TW": "一種特殊的串列形式的抽象資料型別。"
+      }
+    },
+    "Thread": {
+      "en-US": [
+        "Thread"
+      ],
+      "zh-CN": [
+        "线程"
+      ],
+      "zh-TW": [
+        "執行緒"
+      ],
+      "description": {
+        "en-US": "The fundamental unit of computation.",
+        "zh-CN": "程序执行流的最小单元。",
+        "zh-TW": "計算的基本單位。"
       }
     },
     "USB Flash Drive": {

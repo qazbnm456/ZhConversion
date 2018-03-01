@@ -16,10 +16,12 @@ If you like this and would like to support it. Check out my [patreon page](https
   - [Computer](#computer)
   - [Cursor](#cursor)
   - [Data](#data)
+  - [Debug](#debug)
   - [Disk](#disk)
   - [Function](#function)
   - [Hard Disk Drive](#hard-disk-drive)
   - [Hardware](#hardware)
+  - [Heap](#heap)
   - [Information](#information)
   - [Integrated Circuit](#integrated-circuit)
   - [Intelligence](#intelligence)
@@ -34,6 +36,8 @@ If you like this and would like to support it. Check out my [patreon page](https
   - [Notebook Computer](#notebook-computer)
   - [Port](#port)
   - [Print](#print)
+  - [Process](#process)
+  - [Program](#program)
   - [Recursive Function](#recursive-function)
   - [Render](#render)
   - [Scanner](#scanner)
@@ -42,6 +46,8 @@ If you like this and would like to support it. Check out my [patreon page](https
   - [Smart Contract](#smart-contract)
   - [Software](#software)
   - [Sound Card](#sound-card)
+  - [Stack](#stack)
+  - [Thread](#thread)
   - [USB Flash Drive](#usb-flash-drive)
 
 ## Information Technology
@@ -154,6 +160,18 @@ A set of values of qualitative or quantitative variables.
 
 未經過處理的原始記錄。
 
+### Debug
+
+The process of finding and resolving defects or problems within the program that prevent correct operation of computer software or a system.
+
+#### 调试 _zh-CN_
+
+保证所提供的设备能够正常运行的必须程序。
+
+#### 偵錯 _zh-TW_
+
+發現和減少電腦程式或電子儀器裝置中程式錯誤的一個過程。
+
 ### Disk
 
 A magnetic media.
@@ -201,6 +219,18 @@ The physical parts or components of a computer.
 #### 硬體 _zh-TW_
 
 電腦系統中的各種物理裝置。
+
+### Heap
+
+A specialized tree-based data structure.
+
+#### 堆 _zh-CN_
+
+计算机科学中一类特殊的数据结构的统称。
+
+#### 堆積 _zh-TW_
+
+電腦科學中一類特殊的資料結構的統稱。
 
 ### Information
 
@@ -370,6 +400,30 @@ Computer output on a screen or on paper.
 
 將電腦內儲存的資料按照文字或影像的方式永久的輸出到紙張、透明膠片或其他平面媒介上。
 
+### Process
+
+A container for a set of programs.
+
+#### 进程 _zh-CN_
+
+某数据集合上的一次运行活动，是系统进行资源分配和调度的基本单位，是操作系统结构的基础。
+
+#### 程序 _zh-TW_
+
+一組程式的容器。
+
+### Program
+
+A collection of instructions that performs a specific task when executed by a computer.
+
+#### 程序 _zh-CN_
+
+一个指令序列。
+
+#### 程式 _zh-TW_
+
+一組指示電腦或其他具有訊息處理能力裝置每一步動作的指令。
+
 ### Recursive Function
 
 A method where the solution to a problem depends on solutions to smaller instances of the same problem.
@@ -465,6 +519,30 @@ An internal expansion card that provides input and output of audio signals to an
 #### 音效卡 _zh-TW_
 
 一種可將數位化資料轉化成電子合成音樂效果的電腦介面卡。
+
+### Stack
+
+An abstract data type that serves as a collection of elements.
+
+#### 栈 _zh-CN_
+
+一种运算受限的线性表。
+
+#### 堆疊 _zh-TW_
+
+一種特殊的串列形式的抽象資料型別。
+
+### Thread
+
+The fundamental unit of computation.
+
+#### 线程 _zh-CN_
+
+程序执行流的最小单元。
+
+#### 執行緒 _zh-TW_
+
+計算的基本單位。
 
 ### USB Flash Drive
 
